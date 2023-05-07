@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Turismo V2</string>
+    <string name="app_title1">CALETA OLIVIA</string>
+    <string name="app_subtitle">Circuito Historico</string>
+    <string name="button_name1">SitioHistorico1</string>
+    <string name="button_name2">SitioHistorico2</string>
+    <string name="button_name3">SitioHistorico3</string>
+    <string name="button_name4">SitioHistorico4</string>
+    <string name="button_name5">SitioHistorico5</string>
+    <string name="button_name6">SitioHistorico6</string>
+    <string name="button_superior">Turismo</string>
+    <string name="button_ordenar">Ordenar</string>
+    <string name="button_mapa">Mapa</string>
+    <string name="TextoTurismo">Turismo</string>
+    <string name="TextoOrdenar">Ordenar</string>
+    <string name="TextoMapa">Mapa</string>
+    <string name="TextoSitioH1">1.El Telégrafo
+    #1 - Circuito Histórico
+    0.2km
+    </string>
+
+
+    <string name="TextoSitioH2">2.Vivienda de la Familia Maimo
+        #4 - Circuito Histórico
+    0.2km
+    </string>
+
+
+    <string name="TextoSitioH3">3.Almacen de Juan Alvarez
+        #3 - Circuito Histórico
+    0.2km
+    </string>
+
+
+    <string name="TextoSitioH4">4.Vivienda de Ernesto Romberg
+        #2 - Circuito Histórico
+    0.2km
+    </string>
+
+    <string name="TextoSitioH5">5.Escuela Nº14 "20 de Noviembre"
+        #5 - Circuito Histórico
+    0.2km
+    </string>
+
+    <string name="TextoSitioH6">6.Texto Sitio Historico Nº 6
+        #3 - Circuito Histórico
+    0.2km
+    </string>
+
+</resources>
